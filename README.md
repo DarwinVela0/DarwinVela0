@@ -3,7 +3,7 @@
   <img src="https://github.com/DarwinVela0/DarwinVela0/assets/144062337/285cb159-7cf1-43f8-8726-49fbdc901b52">
       
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h1>Bienenidos <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>  
+  <h1>Bienvenidos<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>  
 </div>
 
 <!--
